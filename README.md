@@ -98,3 +98,43 @@ public class StudentGrades {
         scanner.close();
     }
 }
+
+
+
+
+
+OUTPUT
+
+Enter the name of student 1: 89
+Enter the attendance percentage for 89: 78
+Enter the name of student 2: 87
+Enter the attendance percentage for 87: 89
+Enter the name of student 3: 84
+Enter the attendance percentage for 84: 75
+Enter the name of student 4: 76
+Enter the attendance percentage for 76: 94
+Enter the name of student 5: 87
+Enter the attendance percentage for 87: 72
+Enter the name of student 6: 71
+Enter the attendance percentage for 71: 92
+Enter the name of student 7: 81
+Enter the attendance percentage for 81: 90
+Enter the name of student 8: 76
+Enter the attendance percentage for 76: 71
+Enter the name of student 9: 79
+Enter the attendance percentage for 79: 78
+Enter the name of student 10: 69
+Enter the attendance percentage for 69: 77
+
+Grades for the students:
+89: C
+87: B
+84: C
+76: A
+87: C
+71: A
+81: A
+76: C
+79: C
+69: C
+
